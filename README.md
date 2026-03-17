@@ -44,30 +44,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragSardar2&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragSardar2&theme=radical" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 ### 🔹 Final Year Project: BERT(Bidirectional Encoder Representations from Transformers)
 - Performed **text preprocessing, tokenization, and model fine-tuning**
 - Applied **deep learning techniques for text classification / sentiment analysis / NLP task**
 - Tech Stack: Python, Transformers, PyTorch/TensorFlow
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragSardar2&theme=react-dark" />
-</p>
 
 ---
 
