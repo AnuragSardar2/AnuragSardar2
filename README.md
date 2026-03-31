@@ -13,7 +13,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/anuragsardar" target="blank">LinkedIn</a>
+<a href="https://linkedin.com/in/anuragsardar" target="_blank">LinkedIn</a>
 </p>
 
 ---
